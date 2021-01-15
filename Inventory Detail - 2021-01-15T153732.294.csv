@@ -1,0 +1,382 @@
+﻿StoreNumber,WeekEnd,AcctPeriod,AcctWeek,AcctYear
+206,1/10/2021,1,2,2021
+
+InvtGLCat1,ItemID1,ItemName1,ItemUnit1,ItemCount2,ItemCost1,Amount1,InvtGLCat,Textbox86
+Bakery                   ,15413,"Bread, Baguette, 24 ct.                           ",LOAF                     ,33.00,$1.10,$36.30,Bakery                   ,$1038.43
+Bakery                   ,15258,"Bread, Oat Topped Wheat, 8 ct.                    ",LOAF                     ,8.00,$2.05,$16.40,Bakery                   ,$1038.43
+Bakery                   ,15409,"Bread, Texas Toast, 8 ct.                         ",LOAF                     ,7.00,$1.63,$11.41,Bakery                   ,$1038.43
+Bakery                   ,13093,"Brownie, 4/12 ct. trays                           ",Tray                     ,1.67,$24.02,$40.03,Bakery                   ,$1038.43
+Bakery                   ,21164,"Cheesecake, Plain, 4/12 ct.                       ",Each                     ,2.75,$13.93,$38.31,Bakery                   ,$1038.43
+Bakery                   ,16609,"English Muffins, 6/12 ct.                         ",PACK                     ,0.00,$2.98,$0.00,Bakery                   ,$1038.43
+Bakery                   ,17329,"Goo Goo Clusters, 24 ct.                          ",Each                     ,0.00,$0.81,$0.00,Bakery                   ,$1038.43
+Bakery                   ,17328,"Goo Goo Dessert, 8 ct.                            ",Tray                     ,0.00,$9.80,$0.00,Bakery                   ,$1038.43
+Bakery                   ,15361,"Hamburger Bun, split top, 12/8 ct.                ",Bag                      ,21.00,$1.80,$37.80,Bakery                   ,$1038.43
+Bakery                   ,1070,"Pie Shell, Graham                                 ",EA                       ,35.66,$1.97,$70.25,Bakery                   ,$1038.43
+Bakery                   ,14915,"Pie, Country Apple, 6 ct.                         ",Each                     ,18.00,$4.29,$77.22,Bakery                   ,$1038.43
+Bakery                   ,15851,"Pie, Double Crust Cherry, 6 ct.                   ",Each                     ,20.00,$4.60,$92.00,Bakery                   ,$1038.43
+Bakery                   ,14916,"Pie, Double Crust Peach, 6 ct.                    ",Each                     ,0.00,$3.85,$0.00,Bakery                   ,$1038.43
+Bakery                   ,14917,"Pie, French Silk, base, 6 ct.                     ",Each                     ,16.83,$4.63,$77.92,Bakery                   ,$1038.43
+Bakery                   ,21398,"Pie, Lemon Meringue, 6 ct.                        ",Each                     ,19.00,$4.86,$92.34,Bakery                   ,$1038.43
+Bakery                   ,15109,"Pie, Pumpkin, 6 ct.                               ",Each                     ,0.00,$7.59,$0.00,Bakery                   ,$1038.43
+Bakery                   ,21678,"Pie, Red, White & Blue                            ",Each                     ,0.00,$1.75,$0.00,Bakery                   ,$1038.43
+Bakery                   ,14918,"Pie, Southern Pecan, 6 ct.                        ",Each                     ,19.66,$8.04,$158.07,Bakery                   ,$1038.43
+Bakery                   ,21333,"Pizza Crusts, 60 ct.                              ",Each                     ,28.00,$0.43,$12.04,Bakery                   ,$1038.43
+Bakery                   ,14286,"QF - Yeast Rolls, 320 ct.                         ",Case                     ,15.34,$18.15,$278.34,Bakery                   ,$1038.43
+Bar Groceries            ,2475,"Bitters Angostura ,10oz.                          ",Bottle                   ,0.90,$10.41,$9.37,Bar Groceries            ,$569.41
+Bar Groceries            ,17912,"Bloody Mary Mix Zing, 12/1 liter                  ",Bottle                   ,15.70,$3.00,$47.10,Bar Groceries            ,$569.41
+Bar Groceries            ,20964,"Coconut real, ABM, 12/16.9 oz.                    ",Bottle                   ,4.00,$2.43,$9.72,Bar Groceries            ,$569.41
+Bar Groceries            ,11999,"Cotton Candy, 100 per case                        ",Case                     ,1.10,$41.71,$45.88,Bar Groceries            ,$569.41
+Bar Groceries            ,17300,"Ginger Beer, 24/12 oz.                            ",Can                      ,20.00,$0.50,$10.00,Bar Groceries            ,$569.41
+Bar Groceries            ,1083,Grenadine                                         ,Bottle                   ,8.70,$2.40,$20.88,Bar Groceries            ,$569.41
+Bar Groceries            ,1076,"Juice, Cranberry                                  ",1/2GAL                   ,4.70,$2.71,$12.74,Bar Groceries            ,$569.41
+Bar Groceries            ,1186,"Juice, Grapefruit Small                           ",CAN                      ,19.00,$0.41,$7.79,Bar Groceries            ,$569.41
+Bar Groceries            ,1185,"Juice, Pineapple Small                            ",CAN                      ,108.00,$0.42,$45.36,Bar Groceries            ,$569.41
+Bar Groceries            ,1079,"Juice, Tomato                                     ",CAN                      ,22.00,$0.38,$8.36,Bar Groceries            ,$569.41
+Bar Groceries            ,19550,"Lime Juice, Sun Orchard, 6/32 oz.                 ",CONT                     ,5.80,$3.04,$17.63,Bar Groceries            ,$569.41
+Bar Groceries            ,5168,"Limes, each                                       ",Each                     ,55.00,$0.19,$10.45,Bar Groceries            ,$569.41
+Bar Groceries            ,15522,"Margarita Mix, Sun Orchard, 9/Half Gallons        ",half gallons             ,5.00,$6.64,$33.20,Bar Groceries            ,$569.41
+Bar Groceries            ,5696,"Mint, fresh, 1/4# - bunch                         ",BUNCH                    ,1.00,$5.35,$5.35,Bar Groceries            ,$569.41
+Bar Groceries            ,9395,"Monin Mango Syrup, ounces                         ",ounces                   ,189.00,$0.18,$34.02,Bar Groceries            ,$569.41
+Bar Groceries            ,20963,"Monin, Basil Concentrate, 4/375 ml                ",Bottle                   ,2.80,$6.16,$17.25,Bar Groceries            ,$569.41
+Bar Groceries            ,18219,"Monin, Passion Fruit Puree, liter, 4/1 liter      ",Liter                    ,2.00,$10.51,$21.02,Bar Groceries            ,$569.41
+Bar Groceries            ,2019,"NA, Triple Sec                                    ",Bottle                   ,4.30,$2.23,$9.59,Bar Groceries            ,$569.41
+Bar Groceries            ,2425,"Olives, Stuffed Queen                             ",QT                       ,9.20,$4.30,$39.56,Bar Groceries            ,$569.41
+Bar Groceries            ,1589,Oranges                                           ,EA                       ,17.00,$0.50,$8.50,Bar Groceries            ,$569.41
+Bar Groceries            ,15788,"QF - Cherries, gallon                             ",Gallon                   ,3.40,$11.65,$39.61,Bar Groceries            ,$569.41
+Bar Groceries            ,4734,Red Bull                                          ,Each                     ,27.00,$1.45,$39.15,Bar Groceries            ,$569.41
+Bar Groceries            ,11685,Red Bull - Sugar free                             ,Each                     ,42.00,$1.50,$63.00,Bar Groceries            ,$569.41
+Bar Groceries            ,1082,"Salt, Kosher                                      ",BOX                      ,5.00,$1.74,$8.71,Bar Groceries            ,$569.41
+Bar Groceries            ,1085,"Salt, Lawrys, 5#                                  ",TUB                      ,0.30,$17.25,$5.18,Bar Groceries            ,$569.41
+Bar Groceries            ,20965,"Swedish Fish, 12/8 oz.                            ",Bag                      ,0.00,$1.09,$0.00,Bar Groceries            ,$569.41
+Beer                     ,15397,"Angry Orchard Cider, bottle                       ",Bottle                   ,8.00,$1.18,$9.44,Beer                     ,$2083.64
+Beer                     ,1574,"Bud Light, bottle                                 ",Bottle                   ,31.00,$0.79,$24.49,Beer                     ,$2083.64
+Beer                     ,1573,"Budweiser, bottle                                 ",Bottle                   ,31.00,$0.84,$26.04,Beer                     ,$2083.64
+Beer                     ,1576,"Coors Light, bottle                               ",Bottle                   ,28.00,$0.84,$23.52,Beer                     ,$2083.64
+Beer                     ,1787,"Corona Light, bottle                              ",Bottle                   ,24.00,$1.20,$28.80,Beer                     ,$2083.64
+Beer                     ,1577,"Corona, bottle                                    ",Bottle                   ,10.00,$1.20,$12.00,Beer                     ,$2083.64
+Beer                     ,9858,"Dos Equis Amber, bottle                           ",Bottle                   ,23.00,$1.14,$26.22,Beer                     ,$2083.64
+Beer                     ,1578,"Heineken, bottle                                  ",Bottle                   ,28.00,$1.13,$31.64,Beer                     ,$2083.64
+Beer                     ,15519,"IMP-LOCAL, bottle                                 ",Bottle                   ,8.00,$1.18,$9.44,Beer                     ,$2083.64
+Beer                     ,2702,"Keg, Blue Moon                                    ",KEG                      ,1.14,$145.00,$165.30,Beer                     ,$2083.64
+Beer                     ,1584,"Keg, Bud                                          ",KEG                      ,0.49,$117.00,$57.33,Beer                     ,$2083.64
+Beer                     ,1575,"Keg, Bud Light                                    ",KEG                      ,2.85,$107.00,$304.95,Beer                     ,$2083.64
+Beer                     ,1799,"Keg, Coors Light                                  ",KEG                      ,0.19,$117.00,$22.23,Beer                     ,$2083.64
+Beer                     ,1586,"Keg, Empty #1                                     ",KEG                      ,10.00,$50.00,$500.00,Beer                     ,$2083.64
+Beer                     ,3373,"Keg, Empty #2                                     ",KEG                      ,11.00,$30.00,$330.00,Beer                     ,$2083.64
+Beer                     ,17305,"Keg, MGR T1                                       ",KEG                      ,0.00,$155.00,$0.00,Beer                     ,$2083.64
+Beer                     ,3195,"Keg, Michelob Ultra                               ",KEG                      ,1.52,$128.00,$194.56,Beer                     ,$2083.64
+Beer                     ,1585,"Keg, Miller Lite                                  ",KEG                      ,0.00,$117.00,$0.00,Beer                     ,$2083.64
+Beer                     ,1676,"Keg, Sam Adams                                    ",KEG                      ,0.59,$150.00,$88.50,Beer                     ,$2083.64
+Beer                     ,10659,"Keg, Sam Adams Seasonal                           ",KEG                      ,0.51,$150.00,$76.50,Beer                     ,$2083.64
+Beer                     ,3165,"Michelob Ultra, bottle                            ",Bottle                   ,64.00,$0.95,$60.80,Beer                     ,$2083.64
+Beer                     ,1581,"Miller Lite, bottle                               ",Bottle                   ,21.00,$0.84,$17.64,Beer                     ,$2083.64
+Beer                     ,2256,"Modelo Especiale, bottle                          ",Bottle                   ,12.00,$1.20,$14.40,Beer                     ,$2083.64
+Beer                     ,1583,"O'Doul's, bottle                                  ",Bottle                   ,20.00,$0.79,$15.80,Beer                     ,$2083.64
+Beer                     ,1931,"Sierra Nevada, bottle                             ",Bottle                   ,26.00,$1.20,$31.20,Beer                     ,$2083.64
+Beer                     ,3094,"Yuengling, bottle                                 ",Bottle                   ,12.00,$1.07,$12.84,Beer                     ,$2083.64
+Cheese & Dairy           ,16096,"Buttermilk, 1/2 gallon                            ",1/2 Gal                  ,30.00,$1.84,$55.20,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,14207,"Cajun Butter, 18/1.25#                            ",CONT                     ,23.36,$3.53,$82.45,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,20429,"Cheese, 3 blend, 6/5#                             ",Pounds                   ,21.00,$2.83,$59.43,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1132,"Cheese, Crumbled Bleu Cheese, 4/2.5#              ",LB                       ,9.50,$2.85,$27.08,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,10293,"Cheese, Feta crumbles, 2/5# bags                  ",Pounds                   ,0.00,$2.89,$0.00,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,3527,"Cheese, Jack Slice                                ",PACK                     ,14.50,$4.50,$65.25,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,4682,"Cheese, Parmesan, grated, 5#                      ",Pounds                   ,0.00,$4.85,$0.00,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1122,"Cheese, Parmesan, shaved                          ",LB                       ,19.00,$3.45,$65.55,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,2428,"Cheese, Pepperjack Triangles                      ",BAG                      ,10.00,$7.03,$70.30,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1123,"Cheese, Shredded, 6/5#                            ",LB                       ,51.69,$1.99,$102.86,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,12775,"Cheese, Sliced White Cheddar, 9 pack/case         ",PACK                     ,9.00,$3.91,$35.19,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1124,"Cheese, Swiss Slice, 8/1#                         ",PACK                     ,3.50,$3.44,$12.04,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1120,"Cheese, Yellow Cheddar Slice                      ",PAK                      ,7.50,$4.43,$33.23,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,15751,"Chocolate Milk, 1/2 Gal                           ",1/2 Gal                  ,5.00,$3.02,$15.10,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1021,"Creamers, 400 ct.                                 ",BOX                      ,2.00,$16.71,$33.42,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,13373,"Eggs, pasteurized, 15/2#                          ",CONT                     ,0.00,$1.99,$0.00,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1019,"Euro Butter Blend, Whipped                        ",TUB                      ,4.30,$22.59,$97.16,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,16453,"Garlic Butter, 18/1.25#                           ",Each                     ,7.50,$2.70,$20.25,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,13234,"Hard Boiled Eggs, Pillow pack, 4/5# ct.           ",Bag                      ,3.50,$8.39,$29.37,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,3364,"Ice Cream, Vanilla Bean, 2/4 qt                   ",TUB                      ,1.50,$6.65,$9.98,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,16116,"Milk, 1%, 6/64 oz.                                ",half gallons             ,2.00,$2.70,$5.40,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,1022,"On Top Topping, 12/16 oz.                         ",BAG                      ,44.00,$2.38,$104.72,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,14208,"Sauce, Scampi Butter, 18/1.25#                    ",CONT                     ,8.10,$3.40,$27.54,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,3459,"Sour Cream Lite, 9/4.5# bags                      ",TUB                      ,11.03,$3.90,$43.03,Cheese & Dairy           ,$994.52
+Cheese & Dairy           ,16610,"Supreme Filling, 24/1#.                           ",CONT                     ,0.00,$2.75,$0.00,Cheese & Dairy           ,$994.52
+Dressings                ,1026,"Dressing, 1000 Island, 4/1 gallon                 ",GAL                      ,3.85,$8.77,$33.76,Dressings                ,$1354.50
+Dressings                ,1139,"Dressing, Balsamic Vinegarette, 4/1 gallon        ",GAL                      ,8.55,$8.75,$74.81,Dressings                ,$1354.50
+Dressings                ,1027,"Dressing, Bleu Cheese, 4/1 gal.                   ",GAL                      ,2.90,$9.80,$28.42,Dressings                ,$1354.50
+Dressings                ,1042,"Dressing, Caesar                                  ",GAL                      ,4.25,$10.35,$43.99,Dressings                ,$1354.50
+Dressings                ,1198,"Dressing, Honey French, 4/1 gal.                  ",GAL                      ,4.10,$7.23,$29.64,Dressings                ,$1354.50
+Dressings                ,2414,"Dressing, Honey Mustard, 4/1 gallon               ",GAL                      ,7.90,$7.64,$60.36,Dressings                ,$1354.50
+Dressings                ,1030,"Dressing, Ranch Lo-Cal                            ",GAL                      ,4.10,$6.82,$27.96,Dressings                ,$1354.50
+Dressings                ,1029,"Dressing, Ranch, 4/1 gallon                       ",GAL                      ,4.30,$7.00,$30.10,Dressings                ,$1354.50
+Dressings                ,3137,"Dressing, Spicy Cole Slaw, 4/1 gal.               ",GAL                      ,5.80,$10.56,$61.25,Dressings                ,$1354.50
+Dressings                ,13865,"Mayonnaise, 4/1 gallon                            ",Gallon                   ,5.96,$6.91,$41.22,Dressings                ,$1354.50
+Dressings                ,17088,"Peach Chutney, 8/2.5# bag                         ",Bag                      ,18.00,$6.56,$118.08,Dressings                ,$1354.50
+Dressings                ,4940,"Sauce, Alfredo, 4/5# bags                         ",Bag                      ,5.00,$7.27,$36.35,Dressings                ,$1354.50
+Dressings                ,1032,"Sauce, BBQ 4/1 gallon                             ",GAL                      ,4.18,$9.33,$38.99,Dressings                ,$1354.50
+Dressings                ,16573,"Sauce, Brown Gravy, 6/3#                          ",Bag                      ,15.00,$3.58,$53.70,Dressings                ,$1354.50
+Dressings                ,3262,"Sauce, Buffalo, 4/1 gallon                        ",GAL                      ,2.40,$10.01,$24.02,Dressings                ,$1354.50
+Dressings                ,16393,"Sauce, Carolina Gold BBQ, 4/1 gallon              ",Gallon                   ,5.30,$9.19,$48.71,Dressings                ,$1354.50
+Dressings                ,18088,"Sauce, Chicken Pot Pie Filling, 8/5# bags         ",Bag                      ,0.00,$5.68,$0.00,Dressings                ,$1354.50
+Dressings                ,3134,"Sauce, Chipotle BBQ, 4/1 gallon                   ",GAL                      ,6.30,$10.92,$68.80,Dressings                ,$1354.50
+Dressings                ,21478,"Sauce, Cocktail Red Gold, 6/10# cans              ",Can                      ,0.00,$5.33,$0.00,Dressings                ,$1354.50
+Dressings                ,1025,"Sauce, Cocktail, 4/1 gal.                         ",GAL                      ,4.91,$9.06,$44.46,Dressings                ,$1354.50
+Dressings                ,15865,"Sauce, Hollandaise, 8/2# bags                     ",Bag                      ,0.00,$5.76,$0.00,Dressings                ,$1354.50
+Dressings                ,15668,"Sauce, Horseradish, prepared, 6/32 oz.            ",quart                    ,6.15,$6.28,$38.62,Dressings                ,$1354.50
+Dressings                ,16906,"Sauce, Hot Chicken Paste 8/2.5# bags              ",Bag                      ,13.00,$5.11,$66.43,Dressings                ,$1354.50
+Dressings                ,16824,"Sauce, Kickin Bourbon, 4/1/2 gal.                 ",1/2 Gal                  ,3.00,$7.58,$22.74,Dressings                ,$1354.50
+Dressings                ,2415,"Sauce, Red Pepper Marinara                        ",BAG                      ,4.30,$5.23,$22.49,Dressings                ,$1354.50
+Dressings                ,13935,"Sauce, Scampi, 4/5 bags                           ",Bag                      ,7.00,$8.27,$57.89,Dressings                ,$1354.50
+Dressings                ,2416,"Sauce, Spinach Cream, 4/5# bags                   ",BAG                      ,6.90,$9.17,$63.28,Dressings                ,$1354.50
+Dressings                ,11022,"Sauce, sun-dried Tomato Alfredo, 2/4.5#           ",TUB                      ,5.90,$18.41,$108.62,Dressings                ,$1354.50
+Dressings                ,10765,"Sauce, Tartar, 4/1 gallon                         ",GAL                      ,6.00,$6.76,$40.56,Dressings                ,$1354.50
+Dressings                ,21163,"Sauce, Whiskey Cream, 4/4#                        ",Bag                      ,0.00,$8.40,$0.00,Dressings                ,$1354.50
+Dressings                ,14128,"Sauce, White Queso, 4/5# bags                     ",Bag                      ,7.23,$9.58,$69.24,Dressings                ,$1354.50
+Groceries                ,12665,"All Purpose Batter, 25#                           ",Bag                      ,2.00,$14.84,$29.68,Groceries                ,$3106.17
+Groceries                ,16100,"Applesauce, 72 ct.                                ",Each                     ,68.00,$0.30,$20.40,Groceries                ,$3106.17
+Groceries                ,1091,"Artichoke Hearts, 6/#10 cans                      ",CAN                      ,2.52,$7.39,$18.62,Groceries                ,$3106.17
+Groceries                ,1036,"Au Jus, pack                                      ",BAG                      ,7.14,$1.65,$11.79,Groceries                ,$3106.17
+Groceries                ,20106,"Black Beans, canned 24/15 oz.                     ",Can                      ,0.00,$0.95,$0.00,Groceries                ,$3106.17
+Groceries                ,3160,Blend Meal Midget Pecan                           ,LB                       ,13.00,$5.42,$70.46,Groceries                ,$3106.17
+Groceries                ,16757,"Breaded Green Tomatoes, 6/2#                      ",Bag                      ,0.00,$6.66,$0.00,Groceries                ,$3106.17
+Groceries                ,1064,"Brunch Fries, raw                                 ",CASE                     ,0.00,$27.39,$0.00,Groceries                ,$3106.17
+Groceries                ,12689,"Caramel Pie Filling, 16/3.3# bags                 ",Bag                      ,30.36,$9.11,$276.54,Groceries                ,$3106.17
+Groceries                ,2864,"Caramel Topping, 12/20 ct.                        ",PACK                     ,8.00,$2.14,$17.12,Groceries                ,$3106.17
+Groceries                ,17325,"Cavatappi Pasta, 20# case                         ",Case                     ,2.46,$13.21,$32.53,Groceries                ,$3106.17
+Groceries                ,1048,Chicken Base #1                                   ,JAR                      ,15.39,$3.82,$58.80,Groceries                ,$3106.17
+Groceries                ,15260,"Chicken Tortilla Soup, 4/5# bags                  ",Bag                      ,9.00,$7.16,$64.44,Groceries                ,$3106.17
+Groceries                ,15640,"Cornmeal breading, 6/5# bags                      ",Bag                      ,6.00,$7.05,$42.30,Groceries                ,$3106.17
+Groceries                ,1162,"Cornstarch, 24/1#                                 ",BOX                      ,0.00,$0.87,$0.00,Groceries                ,$3106.17
+Groceries                ,1103,Crackers                                          ,BOX                      ,0.80,$17.89,$14.31,Groceries                ,$3106.17
+Groceries                ,2856,"Craisins Dried Cranberries, 2/3# bags             ",LB                       ,19.00,$2.25,$42.75,Groceries                ,$3106.17
+Groceries                ,1055,"Cream Base, Soup                                  ",BAG                      ,0.00,$2.23,$0.00,Groceries                ,$3106.17
+Groceries                ,3437,"Croutons, Parmesan Garlic                         ",Bag                      ,12.50,$3.52,$44.00,Groceries                ,$3106.17
+Groceries                ,11933,"Flour Tortilla Shells, 5.5"", 12/24 ct.            ",PAK                      ,0.00,$1.46,$0.00,Groceries                ,$3106.17
+Groceries                ,1063,"French Fries w/peel, 6/5# bags                    ",CASE                     ,5.83,$20.41,$118.99,Groceries                ,$3106.17
+Groceries                ,21266,"Goldfish Crackers, 60 ct.                         ",Case                     ,0.60,$11.45,$6.87,Groceries                ,$3106.17
+Groceries                ,18218,"Grain & Orzo Blend, 6/2.5# bags                   ",Bag                      ,0.00,$7.17,$0.00,Groceries                ,$3106.17
+Groceries                ,10524,"Honey, gallon                                     ",CONT                     ,1.00,$30.40,$30.40,Groceries                ,$3106.17
+Groceries                ,16133,"Jam, Smuckers Strawberry, 6/#10 can               ",Can                      ,0.00,$15.98,$0.00,Groceries                ,$3106.17
+Groceries                ,1111,Liquid Smoke                                      ,GAL                      ,4.37,$9.17,$40.11,Groceries                ,$3106.17
+Groceries                ,12300,"Loaded Potato Soup Base, 18/28 oz. bags           ",Bag                      ,22.50,$3.82,$85.94,Groceries                ,$3106.17
+Groceries                ,21394,"Mac & Cheese Sauce Mix, 16/16 oz.                 ",Bag                      ,20.14,$2.52,$50.75,Groceries                ,$3106.17
+Groceries                ,12667,"Malt Vinegar, 12/12 oz.                           ",Bottle                   ,12.00,$1.75,$21.00,Groceries                ,$3106.17
+Groceries                ,21117,"Mini Chocolate Chips, 12/16 oz.                   ",Bag                      ,14.00,$2.68,$37.52,Groceries                ,$3106.17
+Groceries                ,1092,"Non-Stick Spray, 6/21 oz.                         ",CAN                      ,0.00,$6.50,$0.00,Groceries                ,$3106.17
+Groceries                ,2858,"Nuts, Pecan Honey Glazed                          ",LB                       ,16.50,$7.06,$116.49,Groceries                ,$3106.17
+Groceries                ,3131,Onion Tanglers                                    ,CASE                     ,1.67,$25.69,$42.90,Groceries                ,$3106.17
+Groceries                ,1136,"Oranges, Mandarin                                 ",CN                       ,5.80,$5.69,$33.00,Groceries                ,$3106.17
+Groceries                ,2370,"Pasta, Linguine                                   ",CASE                     ,1.65,$13.03,$21.50,Groceries                ,$3106.17
+Groceries                ,1065,"Pecan, Pieces 5#                                  ",LB                       ,3.50,$6.49,$22.72,Groceries                ,$3106.17
+Groceries                ,18312,"Pepper Grinders,  McCormik, 36/1.2 oz             ",Each                     ,30.00,$1.04,$31.20,Groceries                ,$3106.17
+Groceries                ,15122,"Pickle Chips, Breaded, 6/2.5#                     ",Pounds                   ,40.52,$3.16,$128.03,Groceries                ,$3106.17
+Groceries                ,12949,"Pickle Chips, crinkle cut                         ",CONT                     ,0.60,$22.38,$13.43,Groceries                ,$3106.17
+Groceries                ,15113,"Pot Pie Dough, 9"", 8/8 ct.                        ",PACK                     ,14.00,$4.10,$57.40,Groceries                ,$3106.17
+Groceries                ,1200,"Potato, Skins (New Pack)                          ",CASE                     ,1.25,$30.67,$38.34,Groceries                ,$3106.17
+Groceries                ,3405,"Potato, Smashed, 4/6# bags                        ",BAG                      ,13.00,$5.14,$66.82,Groceries                ,$3106.17
+Groceries                ,17089,"Potato, Sweet Mashed, 4/5# bags                   ",Bag                      ,9.00,$6.03,$54.27,Groceries                ,$3106.17
+Groceries                ,1106,QF - 57 Heinz                                     ,Bottle                   ,20.00,$3.20,$64.00,Groceries                ,$3106.17
+Groceries                ,1107,QF - A-1                                          ,Bottle                   ,24.00,$3.00,$72.00,Groceries                ,$3106.17
+Groceries                ,4929,"QF - Ketchup Bottle, inverted                     ",Each                     ,57.37,$1.14,$65.40,Groceries                ,$3106.17
+Groceries                ,1155,"QF - Ketchup, Packets (1000/Cs)                   ",CASE                     ,0.80,$27.20,$21.76,Groceries                ,$3106.17
+Groceries                ,1129,"QF - Mayonnaise, Packets                          ",BOX                      ,2.50,$23.96,$59.90,Groceries                ,$3106.17
+Groceries                ,2641,"QF - Mustard Packets, 200 ct.                     ",CASE                     ,1.50,$11.58,$17.37,Groceries                ,$3106.17
+Groceries                ,2940,"QF - Mustard, French's Squeeze, 16/13 oz.         ",EA                       ,14.00,$0.97,$13.58,Groceries                ,$3106.17
+Groceries                ,21675,"QF - Salt packets, 1000 ct                        ",Case                     ,0.00,$4.20,$0.00,Groceries                ,$3106.17
+Groceries                ,1171,"QF - Salt, Rounds                                 ",EA                       ,0.39,$0.64,$0.25,Groceries                ,$3106.17
+Groceries                ,1115,"QF - Sauce, Tabasco                               ",Bottle                   ,14.00,$2.95,$41.30,Groceries                ,$3106.17
+Groceries                ,1154,"QF - Sauce, Worchestershire L & P                 ",Bottle                   ,9.53,$1.34,$12.77,Groceries                ,$3106.17
+Groceries                ,2275,"QF - Shortening, 35# container                    ",CONT                     ,1.28,$22.68,$28.96,Groceries                ,$3106.17
+Groceries                ,1113,"QF - Sugar, Packets                               ",CASE                     ,1.00,$11.98,$11.98,Groceries                ,$3106.17
+Groceries                ,1114,"QF - Sweet Thing, Blue                            ",CASE                     ,1.20,$11.76,$14.11,Groceries                ,$3106.17
+Groceries                ,1044,"QF - Sweet Thing, Pink                            ",CASE                     ,1.00,$11.83,$11.83,Groceries                ,$3106.17
+Groceries                ,3392,"QF - Sweet Thing, Yellow                          ",CASE                     ,1.00,$12.08,$12.08,Groceries                ,$3106.17
+Groceries                ,1094,"Rice, Uncle Bens                                  ",BOX                      ,17.50,$3.13,$54.78,Groceries                ,$3106.17
+Groceries                ,1037,Salad Oil                                         ,GAL                      ,3.28,$4.46,$14.64,Groceries                ,$3106.17
+Groceries                ,3753,"Salsa, Pico De Gallo                              ",CONT                     ,0.00,$8.04,$0.00,Groceries                ,$3106.17
+Groceries                ,18313,"Salt Grinders,  McCormik, 36/1.2 oz               ",Each                     ,18.00,$1.04,$18.72,Groceries                ,$3106.17
+Groceries                ,18622,"Sauce Ancho Chipotle, 2/1 gallon                  ",Each                     ,0.00,$12.93,$0.00,Groceries                ,$3106.17
+Groceries                ,1057,Season Oil                                        ,TUB                      ,2.76,$5.69,$15.68,Groceries                ,$3106.17
+Groceries                ,1060,Season Salt 5#                                    ,BAG                      ,11.55,$6.37,$73.58,Groceries                ,$3106.17
+Groceries                ,2616,Seasoned Flour                                    ,BAG                      ,8.50,$13.06,$111.01,Groceries                ,$3106.17
+Groceries                ,3448,Seasoning BBQ Rib Rub                             ,BAG                      ,23.19,$1.81,$41.97,Groceries                ,$3106.17
+Groceries                ,1062,"Seasoning, Cajun Magic 24 oz.                     ",PACK                     ,9.40,$6.94,$65.26,Groceries                ,$3106.17
+Groceries                ,16758,"Seasoning, Chow Chow 6/1#                         ",Bag                      ,0.00,$2.61,$0.00,Groceries                ,$3106.17
+Groceries                ,1130,"Seasoning, Louissiana Sirloin                     ",LB                       ,17.01,$2.53,$43.04,Groceries                ,$3106.17
+Groceries                ,13500,"Seasoning, Signature Prime Rib, 6/3# bags         ",LB                       ,2.35,$2.25,$5.28,Groceries                ,$3106.17
+Groceries                ,17326,"Seasoning, Steak, 5/1# bags                       ",Bag                      ,8.00,$2.40,$19.20,Groceries                ,$3106.17
+Groceries                ,9711,Special Herb Seasoning                            ,Bag                      ,7.25,$6.20,$44.92,Groceries                ,$3106.17
+Groceries                ,12776,"Spice, 12-Pepper Seasoning                        ",CONT                     ,6.20,$12.45,$77.19,Groceries                ,$3106.17
+Groceries                ,20047,"Spice, Black Pepper, table, 16 oz.                ",CONT                     ,1.17,$14.82,$17.29,Groceries                ,$3106.17
+Groceries                ,10830,"Spice, Cinnamon, ground, 18 oz.                   ",JAR                      ,0.71,$11.78,$8.41,Groceries                ,$3106.17
+Groceries                ,1181,"Spice, Garlic Powder                              ",BAG                      ,0.02,$4.92,$0.09,Groceries                ,$3106.17
+Groceries                ,1176,"Spice, Pepper Lemon, 1# bags                      ",Bag                      ,1.00,$4.47,$4.47,Groceries                ,$3106.17
+Groceries                ,1178,"Spice, Pepper White, 18 oz.                       ",JAR                      ,0.00,$7.64,$0.00,Groceries                ,$3106.17
+Groceries                ,1066,"Spinach, Chopped, 12/3#                           ",BOX                      ,13.90,$2.24,$31.14,Groceries                ,$3106.17
+Groceries                ,2320,"Sryup, Hershey's Chocolate 24 oz                  ",EA                       ,11.00,$2.25,$24.75,Groceries                ,$3106.17
+Groceries                ,1049,"Sugar, Bulk 50#                                   ",BAG                      ,1.86,$30.37,$56.37,Groceries                ,$3106.17
+Groceries                ,14920,"Sugar, Course White, pounds                       ",Pounds                   ,35.50,$1.63,$57.87,Groceries                ,$3106.17
+Groceries                ,1163,"Sugar, Dark Brown, 24 ct.                         ",BOX                      ,30.38,$0.98,$29.77,Groceries                ,$3106.17
+Groceries                ,1096,"Sugar, Powdered                                   ",BOX                      ,0.00,$3.30,$0.00,Groceries                ,$3106.17
+Groceries                ,5573,"Sweet Potato Fries, 6/2.5#                        ",Case                     ,2.00,$22.70,$45.40,Groceries                ,$3106.17
+Groceries                ,1050,"Syrup, Pancake                                    ",GAL                      ,0.00,$9.22,$0.00,Groceries                ,$3106.17
+Groceries                ,15261,"Tomato Basil Soup, 8/5# bags                      ",Bag                      ,0.00,$6.69,$0.00,Groceries                ,$3106.17
+Groceries                ,1069,Tortilla Chips                                    ,CASE                     ,1.40,$16.82,$23.55,Groceries                ,$3106.17
+Groceries                ,11752,"Tortilla Strips, 15# case                         ",Case                     ,0.40,$24.00,$9.60,Groceries                ,$3106.17
+Groceries                ,16650,"Vanilla Extract, 16 oz.                           ",CONT                     ,0.00,$34.42,$0.00,Groceries                ,$3106.17
+Groceries                ,1117,"Vinegar, Apple Cider, 4/1 gallon                  ",GAL                      ,0.00,$6.26,$0.00,Groceries                ,$3106.17
+Groceries                ,1035,"Vinegar, Red Wine, 4/1 gallon                     ",GAL                      ,0.40,$8.68,$3.47,Groceries                ,$3106.17
+Groceries                ,1653,"Waffle Mix, 8 bags per case                       ",Bag                      ,0.00,$10.00,$0.00,Groceries                ,$3106.17
+Liquor                   ,6616,"Amaretto Di Saronno, ounces                       ",ounces                   ,43.92,$0.96,$42.16,Liquor                   ,$2225.70
+Liquor                   ,6952,"Bacardi, ounces                                   ",ounces                   ,70.95,$0.54,$38.31,Liquor                   ,$2225.70
+Liquor                   ,6623,"Bailey's Irish Cream, ounces                      ",ounces                   ,70.95,$1.03,$73.07,Liquor                   ,$2225.70
+Liquor                   ,6819,"Beefeater, ounces                                 ",ounces                   ,3.38,$0.74,$2.50,Liquor                   ,$2225.70
+Liquor                   ,20973,"Blue Chair Bay Coconut Spiced Rum, ounces         ",ounces                   ,121.62,$0.54,$65.68,Liquor                   ,$2225.70
+Liquor                   ,7106,"Bombay Saphire, ounces                            ",ounces                   ,67.57,$0.89,$60.14,Liquor                   ,$2225.70
+Liquor                   ,6966,"Captain Morgans, ounces                           ",ounces                   ,37.16,$0.63,$23.41,Liquor                   ,$2225.70
+Liquor                   ,8408,"Chambord, ounces                                  ",ounces                   ,38.07,$1.14,$43.40,Liquor                   ,$2225.70
+Liquor                   ,6658,"Cordial, Banana, ounces                           ",ounces                   ,43.92,$0.39,$17.13,Liquor                   ,$2225.70
+Liquor                   ,6672,"Cordial, Cacao Dark, ounces                       ",ounces                   ,16.89,$0.33,$5.57,Liquor                   ,$2225.70
+Liquor                   ,6665,"Cordial, Cacao Light, ounces                      ",ounces                   ,81.08,$0.39,$31.62,Liquor                   ,$2225.70
+Liquor                   ,6651,"Cordial, Curacao, Blue, ounces                    ",ounces                   ,27.03,$0.39,$10.54,Liquor                   ,$2225.70
+Liquor                   ,6861,"Crown Royal, ounces                               ",ounces                   ,94.59,$1.09,$103.11,Liquor                   ,$2225.70
+Liquor                   ,21021,"Cruzan Aged White Rum, ounces                     ",ounces                   ,76.14,$0.69,$52.54,Liquor                   ,$2225.70
+Liquor                   ,20966,"Deep Eddy Lemon Vodka, ounces                     ",ounces                   ,64.19,$0.66,$42.36,Liquor                   ,$2225.70
+Liquor                   ,18120,"Deep Eddy Peach Vodka, ounces                     ",ounces                   ,43.92,$0.60,$26.35,Liquor                   ,$2225.70
+Liquor                   ,6924,"Dewars, ounces                                    ",ounces                   ,0.00,$0.93,$0.00,Liquor                   ,$2225.70
+Liquor                   ,6693,"Drambuie, ounces                                  ",ounces                   ,47.30,$1.19,$56.28,Liquor                   ,$2225.70
+Liquor                   ,15493,"El Jimador Blanco, ounces                         ",ounces                   ,16.89,$0.67,$11.32,Liquor                   ,$2225.70
+Liquor                   ,15098,"Fireball Cinnamon Whiskey, ounces                 ",ounces                   ,0.00,$0.49,$0.00,Liquor                   ,$2225.70
+Liquor                   ,8399,"Frangelico, ounces                                ",ounces                   ,37.16,$0.98,$36.42,Liquor                   ,$2225.70
+Liquor                   ,6931,"Glenlivet 12 yr, ounces                           ",ounces                   ,37.16,$1.52,$56.49,Liquor                   ,$2225.70
+Liquor                   ,6707,"Grand Marnier, ounces                             ",ounces                   ,30.41,$1.26,$38.31,Liquor                   ,$2225.70
+Liquor                   ,7274,"Grey Goose Vodka, ounces                          ",ounces                   ,67.57,$1.13,$76.35,Liquor                   ,$2225.70
+Liquor                   ,7071,"Hennessy, ounces                                  ",ounces                   ,20.27,$1.44,$29.19,Liquor                   ,$2225.70
+Liquor                   ,6938,"J & B, ounces                                     ",ounces                   ,50.68,$0.78,$39.53,Liquor                   ,$2225.70
+Liquor                   ,6868,"Jack Daniels, ounces                              ",ounces                   ,131.76,$0.90,$118.58,Liquor                   ,$2225.70
+Liquor                   ,9548,"Jagermiester, ounces                              ",ounces                   ,64.19,$0.87,$55.84,Liquor                   ,$2225.70
+Liquor                   ,7008,"Jameson, ounces                                   ",ounces                   ,59.12,$0.84,$49.66,Liquor                   ,$2225.70
+Liquor                   ,6875,"Jim Beam, ounces                                  ",ounces                   ,70.95,$0.52,$36.89,Liquor                   ,$2225.70
+Liquor                   ,6945,"Johnny Walker Black, ounces                       ",ounces                   ,23.65,$1.34,$31.69,Liquor                   ,$2225.70
+Liquor                   ,6728,"Kahlua, ounces                                    ",ounces                   ,60.81,$0.84,$51.08,Liquor                   ,$2225.70
+Liquor                   ,7176,"Ketel One Vodka, ounces                           ",ounces                   ,81.08,$0.85,$68.92,Liquor                   ,$2225.70
+Liquor                   ,7631,"Knob Creek, ounces                                ",ounces                   ,64.19,$1.10,$70.61,Liquor                   ,$2225.70
+Liquor                   ,6882,"Makers Mark, ounces                               ",ounces                   ,10.14,$0.91,$9.22,Liquor                   ,$2225.70
+Liquor                   ,9624,"Malibu Mango Rum, ounces                          ",ounces                   ,57.43,$0.59,$33.89,Liquor                   ,$2225.70
+Liquor                   ,6973,"Malibu Rum, ounces                                ",ounces                   ,47.30,$0.62,$29.32,Liquor                   ,$2225.70
+Liquor                   ,6756,"Midori, ounces                                    ",ounces                   ,37.16,$0.74,$27.50,Liquor                   ,$2225.70
+Liquor                   ,21012,"New Amsterdam Gin, ounces                         ",ounces                   ,81.08,$0.31,$25.14,Liquor                   ,$2225.70
+Liquor                   ,21003,"New Amsterdam Vodka, ounces                       ",ounces                   ,70.95,$0.50,$35.47,Liquor                   ,$2225.70
+Liquor                   ,8366,"Patron Silver, ounces                             ",ounces                   ,30.41,$1.67,$50.78,Liquor                   ,$2225.70
+Liquor                   ,16454,"Sailor Jerry, ounces                              ",ounces                   ,33.78,$0.67,$22.64,Liquor                   ,$2225.70
+Liquor                   ,8389,"Schnaaps, Cinnamon, ounces                        ",ounces                   ,13.51,$0.20,$2.70,Liquor                   ,$2225.70
+Liquor                   ,7120,"Schnapps, Butterscotch, ounces                    ",ounces                   ,30.41,$0.30,$9.12,Liquor                   ,$2225.70
+Liquor                   ,6763,"Schnapps, Peach, ounces                           ",ounces                   ,57.43,$0.39,$22.40,Liquor                   ,$2225.70
+Liquor                   ,6770,"Schnapps, Peppermint, ounces                      ",ounces                   ,27.03,$0.44,$11.89,Liquor                   ,$2225.70
+Liquor                   ,7218,"Schnapps, Pucker Sour Apple, ounces               ",ounces                   ,40.54,$0.39,$15.81,Liquor                   ,$2225.70
+Liquor                   ,7225,"Seagrams  VO, ounces                              ",ounces                   ,67.57,$0.60,$40.54,Liquor                   ,$2225.70
+Liquor                   ,7043,"Southern Comfort, ounces                          ",ounces                   ,0.00,$0.67,$0.00,Liquor                   ,$2225.70
+Liquor                   ,6798,"Stoli Vodka, ounces                               ",ounces                   ,0.00,$0.77,$0.00,Liquor                   ,$2225.70
+Liquor                   ,6833,"Tanqueray, ounces                                 ",ounces                   ,33.78,$0.91,$30.74,Liquor                   ,$2225.70
+Liquor                   ,17129,"Tito's, Vodka, ounces                             ",ounces                   ,148.65,$0.76,$112.97,Liquor                   ,$2225.70
+Liquor                   ,8931,"Vermouth, Dry, ounces                             ",ounces                   ,43.92,$0.33,$14.49,Liquor                   ,$2225.70
+Liquor                   ,9046,"Vermouth, Sweet, ounces                           ",ounces                   ,27.03,$0.29,$7.84,Liquor                   ,$2225.70
+Liquor                   ,6840,"Well, Bourbon, ounces                             ",ounces                   ,104.73,$0.28,$29.32,Liquor                   ,$2225.70
+Liquor                   ,6644,"Well, Brandy, ounces (E & J)                      ",ounces                   ,67.57,$0.39,$26.35,Liquor                   ,$2225.70
+Liquor                   ,6721,"Well, Gin, ounces                                 ",ounces                   ,97.97,$0.23,$22.53,Liquor                   ,$2225.70
+Liquor                   ,6700,"Well, Rum, ounces                                 ",ounces                   ,84.46,$0.23,$19.43,Liquor                   ,$2225.70
+Liquor                   ,6910,"Well, Scotch, ounces                              ",ounces                   ,91.22,$0.31,$28.28,Liquor                   ,$2225.70
+Liquor                   ,6994,"Well, Tequila, (sauza), ounces                    ",ounces                   ,0.00,$0.76,$0.00,Liquor                   ,$2225.70
+Liquor                   ,6714,"Well, Vodka, ounces                               ",ounces                   ,136.82,$0.22,$30.10,Liquor                   ,$2225.70
+Liquor                   ,6896,"Wild Turkey, ounces                               ",ounces                   ,54.05,$0.96,$51.89,Liquor                   ,$2225.70
+Liquor                   ,7393,"Woodford Reserve, ounces                          ",ounces                   ,40.54,$1.24,$50.27,Liquor                   ,$2225.70
+Meat                     ,17327,"Baby Back Ribs, Domestic, POUND                   ",Pounds                   ,182.63,$3.33,$608.14,Meat                     ,$4866.56
+Meat                     ,17332,"Bacon, 14/18 ct. 15# cs                           ",LB                       ,34.00,$2.26,$76.84,Meat                     ,$4866.56
+Meat                     ,1005,"Bacon, Bits, 2/5#                                 ",LB                       ,37.50,$4.26,$159.75,Meat                     ,$4866.56
+Meat                     ,4768,"Corn Dog, mini                                    ",CASE                     ,1.50,$31.52,$47.28,Meat                     ,$4866.56
+Meat                     ,11077,"Filet, 7 oz.                                      ",Each                     ,48.00,$7.96,$382.08,Meat                     ,$4866.56
+Meat                     ,3280,"Hamburger Patty, 7 oz. 48 ct.                     ",EA                       ,144.29,$1.09,$157.28,Meat                     ,$4866.56
+Meat                     ,1000,"Prime Rib, Lip on                                 ",LB                       ,289.54,$5.80,$1679.30,Meat                     ,$4866.56
+Meat                     ,1002,"Ribeye, bone-in 14 oz. 16 ct.                     ",EA                       ,41.00,$11.61,$476.01,Meat                     ,$4866.56
+Meat                     ,15414,"Roast Beef, Sliced, 16/2#                         ",PACK                     ,3.53,$11.39,$40.18,Meat                     ,$4866.56
+Meat                     ,15678,"Sausage, spicy, 12/1#                             ",Pounds                   ,0.00,$2.77,$0.00,Meat                     ,$4866.56
+Meat                     ,3508,"Sirloin, 12 oz. 6/4 ct.                           ",EA                       ,81.00,$5.40,$437.40,Meat                     ,$4866.56
+Meat                     ,14156,"Sirloin, 6 oz. 8/6 ct.                            ",Each                     ,263.00,$2.70,$710.10,Meat                     ,$4866.56
+Meat                     ,15863,"Whole Ham, small                                  ",Pounds                   ,33.65,$2.74,$92.20,Meat                     ,$4866.56
+Non-Alcholic             ,1164,"Cocoa, Instant                                    ",BOX                      ,0.30,$11.00,$3.30,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1072,"Coffee, Royal Cup, 128/2.5 oz.                    ",CASE                     ,1.03,$64.40,$66.33,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1073,"Coffee, Royal Cup, Decaf, 42/2.5 oz.              ",CASE                     ,1.09,$22.77,$24.82,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1654,Fresh Strawberries                                ,QT                       ,13.00,$4.37,$56.81,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,2664,Ginger Ale                                        ,EA                       ,27.00,$0.74,$19.98,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,18677,"Juice, Apple, 4/128 oz.                           ",CONT                     ,2.00,$4.21,$8.42,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1081,"Juice, Orange                                     ",GAL                      ,5.00,$9.75,$48.75,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,14197,"Lemon Juice, Sun Orchard, 6/64 oz.                ",CONT                     ,13.70,$5.40,$73.98,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1169,"Lemons, 200 ct.                                   ",CASE                     ,2.10,$29.98,$63.00,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,4957,"Monin Raspberry O'Free, 64oz                      ",Bottle                   ,5.70,$10.18,$58.03,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,20283,"Monin, Blackberry Puree, 4/1 liter                ",Liter                    ,2.00,$10.51,$21.02,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,20281,"Monin, Peach Puree, 4/1 liter                     ",Liter                    ,7.00,$8.66,$60.62,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,20282,"Monin, Strawberry Puree, 4/1 liter                ",Liter                    ,2.00,$8.68,$17.36,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,3489,"OC Water, bottled                                 ",Bottle                   ,25.00,$0.33,$8.25,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21489,"QF - Syrup, Coke Zero, 2.5 Gal                    ",Box                      ,2.19,$44.79,$98.09,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21486,"QF - Syrup, Coke, 5 Gal                           ",Box                      ,1.22,$85.90,$104.80,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21487,"QF - Syrup, Diet Coke, 5 Gal                      ",Box                      ,3.46,$85.90,$297.21,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,2665,"QF - Syrup, Dr Pepper 5GL                         ",BOX                      ,1.20,$85.90,$103.08,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21492,"QF - Syrup, Hi-C, 2.5 Gal                         ",Box                      ,3.11,$44.79,$139.30,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21491,"QF - Syrup, Mello Yellow, 5 Gal                   ",Box                      ,2.62,$82.61,$216.44,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21490,"QF - Syrup, MM Lemonade, 5 Gal                    ",Box                      ,0.60,$82.61,$49.57,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,21488,"QF - Syrup, Sprite, 5 Gal                         ",Box                      ,1.20,$85.90,$103.08,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,16499,"Rootbeer, Diet IBC                                ",Bottle                   ,2.00,$0.73,$1.46,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1128,"Rootbeer, IBC                                     ",Bottle                   ,6.00,$0.73,$4.38,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,1071,"Tea, Iced, 32/3 oz.                               ",CASE                     ,4.68,$23.32,$109.14,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,2656,"Tonic Water, 24/10 oz.                            ",Bottle                   ,20.00,$0.53,$10.60,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,16005,"Twinning, Earl Grey, 6/50ct                       ",Box                      ,2.00,$4.35,$8.70,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,16009,"Twinning, English Break Decaf, 6/25ct             ",Box                      ,2.00,$2.80,$5.60,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,16007,"Twinning, English Breakfast Regular, 6/50ct       ",Box                      ,4.40,$4.37,$19.23,Non-Alcholic             ,$1816.73
+Non-Alcholic             ,16003,"Twinnings, Green Tea, 6/50ct                      ",Box                      ,3.70,$4.16,$15.39,Non-Alcholic             ,$1816.73
+Poultry                  ,4834,"5 oz. Chicken Breast, pound                       ",Pounds                   ,64.00,$2.45,$156.80,Poultry                  ,$915.41
+Poultry                  ,1014,"Chicken, Tenders, pound                           ",LB                       ,306.00,$2.02,$618.12,Poultry                  ,$915.41
+Poultry                  ,14084,"Random Chicken Breast Splits, 8/5# bags           ",Pounds                   ,73.58,$1.23,$90.51,Poultry                  ,$915.41
+Poultry                  ,4934,"Turkey, sliced, 12/16 oz.                         ",Pounds                   ,17.00,$2.94,$49.98,Poultry                  ,$915.41
+Produce                  ,5680,"Asparagus, 11# case                               ",BUNCH                    ,17.76,$2.42,$42.97,Produce                  ,$561.86
+Produce                  ,10100,"Basil, fresh                                      ",Pounds                   ,0.25,$21.40,$5.35,Produce                  ,$561.86
+Produce                  ,3265,"Broccoli Florets, 3 pound  bags                   ",BAG                      ,0.00,$4.69,$0.00,Produce                  ,$561.86
+Produce                  ,17361,"Cabbage, Red, Shred                               ",Pounds                   ,8.33,$1.31,$10.91,Produce                  ,$561.86
+Produce                  ,17046,"Carrots, baby (mini), pound                       ",Pounds                   ,1.50,$1.23,$1.85,Produce                  ,$561.86
+Produce                  ,5317,"Carrots, shredded, POUND                          ",Pounds                   ,8.78,$1.19,$10.45,Produce                  ,$561.86
+Produce                  ,1479,Celery                                            ,BUNCH                    ,6.00,$1.55,$9.30,Produce                  ,$561.86
+Produce                  ,13720,"Cilantro, fresh, bunch                            ",BUNCH                    ,11.15,$0.82,$9.14,Produce                  ,$561.86
+Produce                  ,2537,"Cole Slaw Mix, 5# bag                             ",BAG                      ,6.50,$4.00,$26.00,Produce                  ,$561.86
+Produce                  ,16823,"Corn, IQF, 12/2.5# bags                           ",Bag                      ,0.00,$2.23,$0.00,Produce                  ,$561.86
+Produce                  ,5157,"Cucumbers, 18/20# case                            ",Pounds                   ,18.00,$0.76,$13.68,Produce                  ,$561.86
+Produce                  ,21258,"Garlic, chopped in water                          ",CONT                     ,0.00,$7.41,$0.00,Produce                  ,$561.86
+Produce                  ,17187,"Green Onions, 2# bag                              ",Pounds                   ,9.00,$2.98,$26.82,Produce                  ,$561.86
+Produce                  ,14877,"Lettuce, Iceberg, head                            ",Head                     ,57.87,$0.98,$56.71,Produce                  ,$561.86
+Produce                  ,1489,"Lettuce, Romaine                                  ",HEAD                     ,36.93,$1.02,$37.67,Produce                  ,$561.86
+Produce                  ,9976,"Mushrooms, pound                                  ",Pounds                   ,10.40,$2.65,$27.57,Produce                  ,$561.86
+Produce                  ,5164,"Onions, Red                                       ",Pounds                   ,29.03,$0.56,$16.26,Produce                  ,$561.86
+Produce                  ,5159,"Onions, Yellow                                    ",Pounds                   ,22.05,$0.33,$7.28,Produce                  ,$561.86
+Produce                  ,1488,"Peppers, Green                                    ",LB                       ,12.47,$0.89,$11.09,Produce                  ,$561.86
+Produce                  ,10879,"Peppers, Jalapenos, fresh                         ",Pounds                   ,2.53,$2.84,$7.19,Produce                  ,$561.86
+Produce                  ,1637,"Peppers, Red                                      ",LB                       ,20.15,$1.13,$22.77,Produce                  ,$561.86
+Produce                  ,15794,"Pineapple, fresh                                  ",Each                     ,0.00,$4.58,$0.00,Produce                  ,$561.86
+Produce                  ,3302,"Potatoes, 80 Ct                                   ",CASE                     ,6.88,$17.96,$123.64,Produce                  ,$561.86
+Produce                  ,17331,"Tomatoes, 4x5                                     ",Case                     ,1.00,$30.55,$30.55,Produce                  ,$561.86
+Produce                  ,1626,"Tomatoes, Roma                                    ",CASE                     ,2.40,$26.90,$64.67,Produce                  ,$561.86
+Seafood                  ,15639,"Catfish, frozen, raw, 15# cs.                     ",Pounds                   ,7.00,$4.98,$34.86,Seafood                  ,$717.76
+Seafood                  ,16822,"Crab Cake, 2/12 ct                                ",Each                     ,0.00,$2.81,$0.00,Seafood                  ,$717.76
+Seafood                  ,18167,"Crab Stuffed Shells, 3/35 ct.                     ",Each                     ,172.00,$0.48,$82.56,Seafood                  ,$717.76
+Seafood                  ,17091,"Fish, Cod                                         ",Pounds                   ,35.50,$4.57,$162.24,Seafood                  ,$717.76
+Seafood                  ,2811,"Fish, Salmon                                      ",LB                       ,17.86,$5.31,$94.85,Seafood                  ,$717.76
+Seafood                  ,10408,"Fish, Tilapia                                     ",Pounds                   ,36.00,$3.43,$123.48,Seafood                  ,$717.76
+Seafood                  ,15655,"Shrimp, 41/50 ct.                                 ",LB                       ,17.00,$4.24,$72.08,Seafood                  ,$717.76
+Seafood                  ,16885,"Shrimp, Buttermilk Breaded, 10/2#                 ",LB                       ,27.00,$5.47,$147.69,Seafood                  ,$717.76
+Seafood                  ,3285,"Shrimp, Popcorn, 4 oz. bags                       ",LB                       ,0.00,$4.06,$0.00,Seafood                  ,$717.76
+Wine                     ,7807,"Beringer White Zinfindel, ounces                  ",ounces                   ,114.21,$0.18,$20.56,Wine                     ,$510.00
+Wine                     ,18258,"Beso De Sol, 3 liter box, ounces                  ",ounces                   ,131.31,$0.15,$19.70,Wine                     ,$510.00
+Wine                     ,15922,"Cupcake Prosecco, ounces                          ",ounces                   ,269.04,$0.35,$94.16,Wine                     ,$510.00
+Wine                     ,21697,"EOS Cabernet Sauvignon, ounces                    ",ounces                   ,492.39,$0.24,$118.17,Wine                     ,$510.00
+Wine                     ,21690,"EOS Pinot Grigio, ounces                          ",ounces                   ,274.11,$0.24,$65.79,Wine                     ,$510.00
+Wine                     ,21519,"Guenoc Chardonnay, ounces                         ",ounces                   ,428.93,$0.23,$98.65,Wine                     ,$510.00
+Wine                     ,18269,"Josh Cellars Cabernet Sauvignon, ounces           ",ounces                   ,0.00,$0.37,$0.00,Wine                     ,$510.00
+Wine                     ,17234,"Mark West Pinot Noir, ounces                      ",ounces                   ,0.00,$0.32,$0.00,Wine                     ,$510.00
+Wine                     ,21039,"Proveb Merlot, ounces                             ",ounces                   ,0.00,$0.19,$0.00,Wine                     ,$510.00
+Wine                     ,21679,"Rickshaw Pinot Nior, ounces                       ",ounces                   ,251.27,$0.37,$92.97,Wine                     ,$510.00
+
